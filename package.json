@@ -51,7 +51,7 @@
 		"autosize": "6.0.1",
 		"autwh": "0.1.0",
 		"aws-sdk": "2.1692.0",
-		"bcryptjs": "2.4.3",
+		"bcryptjs": "3.0.2",
 		"blurhash": "1.1.5",
 		"bootstrap": "5.3.3",
 		"bootstrap-vue": "2.23.1",
