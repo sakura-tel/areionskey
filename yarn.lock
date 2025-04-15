@@ -10146,10 +10146,10 @@ void-elements@^3.1.0:
   resolved "https://registry.yarnpkg.com/void-elements/-/void-elements-3.1.0.tgz#614f7fbf8d801f0bb5f0661f5b2f5785750e4f09"
   integrity sha1-YU9/v42AHwu18GYfWy9XhXUOTwk=
 
-vue-color@2.8.1:
-  version "2.8.1"
-  resolved "https://registry.yarnpkg.com/vue-color/-/vue-color-2.8.1.tgz#a090f3dcf8ed6f07afdb865cac84b19a73302e70"
-  integrity sha512-BoLCEHisXi2QgwlhZBg9UepvzZZmi4176vbr+31Shen5WWZwSLVgdScEPcB+yrAtuHAz42309C0A4+WiL9lNBw==
+vue-color@2.8.2:
+  version "2.8.2"
+  resolved "https://registry.yarnpkg.com/vue-color/-/vue-color-2.8.2.tgz#5977e199f6c10da76a9f1978d8297b0028e7b9c7"
+  integrity sha512-1qmsxl5GiIjx/jApBbTGr2r4bN/7WRKUTl3tc53vkXb9Ua0rZmiqsdq6VdG1e7dVNTLJahdsRGWcjeU2+98+NA==
   dependencies:
     clamp "^1.0.1"
     lodash.throttle "^4.0.0"
