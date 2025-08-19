@@ -9422,10 +9422,10 @@ stylehacks@^7.0.5:
     browserslist "^4.24.5"
     postcss-selector-parser "^7.1.0"
 
-stylus-loader@8.1.1:
-  version "8.1.1"
-  resolved "https://registry.yarnpkg.com/stylus-loader/-/stylus-loader-8.1.1.tgz#e43f71660a16cb14a45b3d13acb1cc7a16d11b8f"
-  integrity sha512-Ohe29p3gwJiu1kxq16P80g1qq0FxGtwQevKctLE4su8KUq+Ea06Q6lp7SpcJjaKNrWIuEZQGvESUPt8JpukKVw==
+stylus-loader@8.1.2:
+  version "8.1.2"
+  resolved "https://registry.yarnpkg.com/stylus-loader/-/stylus-loader-8.1.2.tgz#96cb2e46d4f8caf8e85efa7af72d312da1b58706"
+  integrity sha512-zr4ae9vIDs4zslsMtsCAoN3CLkhtUEikwNwL+AyGGtwlo+oRaX2su/6MVy/TbaSND/WIGx5hSTK23G58T8zVyQ==
   dependencies:
     fast-glob "^3.3.2"
     normalize-path "^3.0.0"
