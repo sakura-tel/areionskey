@@ -248,6 +248,6 @@
 		"@types/websocket": "1.0.10",
 		"eslint": "8.57.1",
 		"eslint-plugin-node": "11.1.0",
-		"mocha": "10.8.2"
+		"mocha": "11.7.2"
 	}
 }
