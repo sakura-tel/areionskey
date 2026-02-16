@@ -2009,10 +2009,10 @@ ajv@^8.9.0:
     json-schema-traverse "^1.0.0"
     require-from-string "^2.0.2"
 
-animejs@3.2.2:
-  version "3.2.2"
-  resolved "https://registry.yarnpkg.com/animejs/-/animejs-3.2.2.tgz#59be98c58834339d5847f4a70ddba74ac75b6afc"
-  integrity sha512-Ao95qWLpDPXXM+WrmwcKbl6uNlC5tjnowlaRYtuVDHHoygjtIPfDUoK9NthrlZsQSKjZXlmji2TrBUAVbiH0LQ==
+animejs@4.3.6:
+  version "4.3.6"
+  resolved "https://registry.yarnpkg.com/animejs/-/animejs-4.3.6.tgz#2399da111ec6a5494aca1cd4aa31135796e93e13"
+  integrity sha512-rzZ4bDc8JAtyx6hYwxj7s5M/yWfnM5qqY4hZDnhy1cWFvMb6H5/necHS2sbCY3WQTDbRLuZL10dPXSxSCFOr/w==
 
 ansi-colors@^1.0.1:
   version "1.1.0"
