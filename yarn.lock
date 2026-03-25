@@ -6269,10 +6269,10 @@ jws@^4.0.0:
     jwa "^2.0.1"
     safe-buffer "^5.0.1"
 
-katex@0.16.40:
-  version "0.16.40"
-  resolved "https://registry.yarnpkg.com/katex/-/katex-0.16.40.tgz#87c94e4149f8fa7c22ff95bae1dc687355a38d63"
-  integrity sha512-1DJcK/L05k1Y9Gf7wMcyuqFOL6BiY3vY0CFcAM/LPRN04NALxcl6u7lOWNsp3f/bCHWxigzQl6FbR95XJ4R84Q==
+katex@0.16.42:
+  version "0.16.42"
+  resolved "https://registry.yarnpkg.com/katex/-/katex-0.16.42.tgz#444e81ad095e1c14e54229f65c26b5ea4e5e153c"
+  integrity sha512-sZ4jqyEXfHTLEFK+qsFYToa3UZ0rtFcPGwKpyiRYh2NJn8obPWOQ+/u7ux0F6CAU/y78+Mksh1YkxTPXTh47TQ==
   dependencies:
     commander "^8.3.0"
 
