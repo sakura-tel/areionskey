@@ -3225,7 +3225,12 @@ constantinople@^4.0.1:
     "@babel/parser" "^7.6.0"
     "@babel/types" "^7.6.1"
 
-content-disposition@0.5.4, content-disposition@~0.5.2:
+content-disposition@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/content-disposition/-/content-disposition-2.0.0.tgz#b39134e5f3fbd52cd95ef2850ef109b5ea331ac4"
+  integrity sha512-qqGFOrKmFP1lTfG24opOJFcTMza1BqyTSUKVbMGUP5uRsBH+C00Q1loOk+JSFshyRE0ji4HtCJeNN2WHWd6PGw==
+
+content-disposition@~0.5.2:
   version "0.5.4"
   resolved "https://registry.yarnpkg.com/content-disposition/-/content-disposition-0.5.4.tgz#8b82b4efac82512a02bb0b1dcec9d2c5e8eb5bfe"
   integrity sha512-FveZTNuGw04cxlAiWbzi6zTAL/lhehaWbTtgluJh4/E95DqMwTmha3KZN1aAWA8cFIhHzMZUvLevkw5Rqk+tSQ==
