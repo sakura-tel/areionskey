@@ -56,7 +56,7 @@
 		"bootstrap": "5.3.8",
 		"bootstrap-vue": "2.23.1",
 		"bull": "4.11.5",
-		"cacheable-lookup": "6.1.0",
+		"cacheable-lookup": "7.0.0",
 		"cafy": "15.2.1",
 		"cbor": "9.0.2",
 		"chalk": "4.1.2",
