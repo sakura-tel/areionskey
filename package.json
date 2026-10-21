@@ -1,8 +1,8 @@
 {
 	"name": "areionskey",
 	"author": "sakura-tel <sakura-tel@pm.me>",
-	"version": "3.1.1",
-	"codename": "Sapporo",
+	"version": "4.0.0",
+	"codename": "Hakodate",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/sakura-tel/areionskey.git"

@@ -1,11 +1,29 @@
 ChangeLog
 =========
 
-3.1.1 (2023/04/06)
+4.0.0 (2026/10/22)
+--------------------
+### 💥BREAKING CHANGES
+- Drop Node.js v16.x, v18.x support
+- Now support Node.js version is 22 or later
+
+### To Update
+以下を実施してください
+- Dockerfile 確認 (Alpine Linux v3.18 -> v3.22, Node.js v18.20.1 -> v24.22)
+- Areionskey 再起動
+
+### ✨Improvements
+- Based on mei-v11 [11.37.1-20240721044611](https://github.com/mei23/misskey-v11/releases/tag/11.37.1-20240721044611)
+
+### 🐛Fixes
+- mention: `@twitter.com` でのリンク先を修正
+- 依存関係の更新
+
+3.1.1 (2024/04/06)
 --------------------
 ### To Update
 以下を実施してください
-- Dockerfile 確認 (Node.js v18.17.1 -> v18.20.1 )
+- Dockerfile 確認 (Node.js v18.17.1 -> v18.20.1)
 - Areionskey 再起動
 
 ### 🐛Fixes
