@@ -125,7 +125,7 @@
 		"postcss": "8.4.49",
 		"postcss-loader": "7.3.4",
 		"private-ip": "2.3.4",
-		"probe-image-size": "7.2.3",
+		"probe-image-size": "7.3.0",
 		"progress-bar-webpack-plugin": "2.1.0",
 		"promise-limit": "2.7.0",
 		"promise-sequential": "1.1.1",
