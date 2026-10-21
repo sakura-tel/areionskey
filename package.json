@@ -10,7 +10,7 @@
 	"main": "./index.js",
 	"private": true,
 	"engines": {
-		"node": ">=18.20.5"
+		"node": ">=22"
 	},
 	"scripts": {
 		"start": "node ./index.js",
