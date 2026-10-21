@@ -171,7 +171,7 @@
 		"ulid": "2.3.0",
 		"uuid": "11.0.5",
 		"v-animate-css": "0.0.6",
-		"v-debounce": "0.1.2",
+		"v-debounce": "0.2.0",
 		"vue": "2.7.16",
 		"vue-color": "2.8.2",
 		"vue-content-loading": "1.6.0",
