@@ -85,7 +85,7 @@
 		"gulp-terser": "2.1.0",
 		"highlight.js": "10.7.1",
 		"html-minifier": "4.0.0",
-		"http-proxy-agent": "7.0.2",
+		"http-proxy-agent": "9.1.0",
 		"@peertube/http-signature": "1.7.0",
 		"https-proxy-agent": "7.0.6",
 		"insert-text-at-cursor": "0.3.0",
