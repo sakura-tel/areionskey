@@ -244,7 +244,7 @@
 		"@types/uuid": "10.0.0",
 		"@types/web-push": "3.6.4",
 		"@types/webpack": "5.28.5",
-		"@types/webpack-stream": "3.2.15",
+		"@types/webpack-stream": "3.2.16",
 		"@types/websocket": "1.0.10",
 		"eslint": "8.57.1",
 		"eslint-plugin-node": "11.1.0",
